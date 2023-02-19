@@ -3,6 +3,7 @@ from sentence_transformers import SentenceTransformer
 
 from basic_keybert_1 import basic_keybert
 from max_sum_similarity_2 import max_sum_sim
+from maximal_marginal_relevance_3 import mmr
 from korean_stopwords import korean_stopwords
 from doc import doc
 
@@ -32,3 +33,5 @@ if __name__ == "__main__":
         nr_candidates=10,
         candidates=candidates,
     )
+
+    mmr(doc_embedding, candidate_embeddings, candidates, top_n=5, diversity=0.2)
