@@ -34,4 +34,4 @@ def max_sum_sim(
             candidate = combination
             min_sim = sim
 
-    return [words_vals[idx] for idx in candidate]
+    print([words_vals[idx] for idx in candidate])
