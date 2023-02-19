@@ -22,3 +22,4 @@ BERT를 이용해 문서 레벨 (document-level)에서의 주제 (representation
 - [BERT를 이용한 키워드 추출 : 키버트(KeyBERT)](https://wikidocs.net/159467)
 - [BERT-keyBert로-키워드-추출하기](https://velog.io/@mare-solis/BERT-keyBert%EB%A1%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0)
 - [Github - MaartenGr/KeyBERT](https://maartengr.github.io/KeyBERT/index.html)
+- [Korean Stopwords](https://www.ranks.nl/stopwords/korean)
