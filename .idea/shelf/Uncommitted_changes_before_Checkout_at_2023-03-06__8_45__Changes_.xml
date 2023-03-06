@@ -1,9 +1,0 @@
-<changelist name="Uncommitted_changes_before_Checkout_at_2023-03-06_오후_8_45_[Changes]" date="1678103119058" recycled="true" deleted="true">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-03-06_오후_8_45_[Changes]/shelved.patch" />
-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2023-03-06 오후 8:45 [Changes]" />
-  <binary>
-    <option name="BEFORE_PATH" />
-    <option name="AFTER_PATH" value="gradle/wrapper/gradle-wrapper.jar" />
-    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-03-06_오후_8_45_[Changes]/gradle-wrapper.jar" />
-  </binary>
-</changelist>
